@@ -1,0 +1,33 @@
+_repo: Chicago-by-day-and-night-b-The-Pleasure-Seeker-s-Guide-to-the-Paris-of-America_70675
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    aliases:
+    - Anonyme
+    - Anonymous, Anonymous
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anonymous_work
+    - http://www.gutenberg.org/ebooks/author/49
+description: ''
+gutenberg_issued: '2023-04-30'
+identifiers:
+  gutenberg: '70675'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=loc.ark:/13960/t9959vp2g
+pgterms:marc905: 20211103134142vynne
+pgterms:marc906: '1892'
+pgterms:marc907: US
+production_note: deaurider and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aUnited States :$bThomson and Zimmerman, $c1892.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Chicago by day and night : $b The Pleasure Seeker''s Guide to the Paris of
+  America'
+url: http://www.gutenberg.org/ebooks/70675
