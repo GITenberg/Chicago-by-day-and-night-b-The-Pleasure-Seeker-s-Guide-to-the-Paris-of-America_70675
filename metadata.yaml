@@ -1,5 +1,8 @@
 _repo: Chicago-by-day-and-night-b-The-Pleasure-Seeker-s-Guide-to-the-Paris-of-America_70675
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70675-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Anonymous_work
     - http://www.gutenberg.org/ebooks/author/49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70675#Chicago-by-day-and-night-b-The-Pleasure-Seeker-s-Guide-to-the-Paris-of-America
 gutenberg_issued: '2023-04-30'
 identifiers:
   gutenberg: '70675'
